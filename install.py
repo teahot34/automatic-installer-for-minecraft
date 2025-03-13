@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import webbrowser
 
-# Dictionnaire des resource packs (nom affiché : URL)
+# Dictionnaire des resource packs (nom affiché :  URL)
 resource_packs = {
     "WASD Resource Pack": "https://www.dropbox.com/scl/fi/5d87rctheyoxca7w8oyto/WASD-Resource-Pack-V7.6.0-MC_1.21.4.zip?rlkey=e8qh4idp4flvrm7ymxsuxp1ex&st=k5wk8hmo&dl=1",
     "Night vision": "https://www.curseforge.com/api/v1/mods/429113/files/3550486/download",
